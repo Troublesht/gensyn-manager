@@ -25,10 +25,8 @@ A powerful Bash script to easily manage and run your Gensyn RL-Swarm setup with 
 ## 📦 Requirements
 
 - Ubuntu 20.04+ or WSL2  
-- Docker (optional but recommended)  
-- Python 3.10+  
-- Git, curl, tmux  
-- ngrok account  
+- Git, curl, tmux   `sudo apt install git curl tmux -y`
+- [ngrok](https://ngrok.com/)
 
 ---
 
