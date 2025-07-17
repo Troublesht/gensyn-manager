@@ -108,4 +108,4 @@ Feel free to fork or contribute:
 
 Script by [Troublesht](https://github.com/Troublesht)
 
-x: [X link](https://x.com/Ankurz) 
+x: [X link](https://x.com/Ankurzk) 
