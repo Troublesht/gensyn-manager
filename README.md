@@ -14,12 +14,8 @@ A powerful Bash script to easily manage and run your Gensyn RL-Swarm setup with 
 
 - 🖥️ Run Gensyn RL-Swarm with CPU or GPU  
 - 🌐 Automatically open ngrok tunnel (in tmux)  
-- 🧠 Intelligent login flow via modal  
-- 🔁 Run multiple sessions simultaneously  
+- 🧠 Intelligent login flow via modal 
 - 🛠 Fixes Python venv, CUDA fragmentation & PyTorch GPU usage  
-- ✅ Restart-proof: Doesn’t require deleting folders  
-- 💡 Debug shell and session attachment  
-
 ---
 
 ## 📦 Requirements
